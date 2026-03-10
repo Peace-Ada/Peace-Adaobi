@@ -1,5 +1,5 @@
-Okedinachi Peace
-logo
-discription: Entry level Data Analyst | Turning data into insights | Excel | Power BI | SQL | Python
-show_downloas: false
-theme:jekyll-theme-minimal
+title: Okedinachi Peace
+logo: assets/img/logo.png
+description: Entry level Data Analyst | Turning data into insights | Excel | Power BI | SQL | Python
+show_downloads: false
+theme: jekyll-theme-minimal
