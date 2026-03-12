@@ -43,7 +43,7 @@ Objective: Identify factors contributing to defective products and evaluate insp
 
 Tools Used: Excel | SQL 
 
-Key Insights
+##### Key Insights
 
 Significant variation in defect rates among the three inspectors: 85%, 65%, and 40%
 
@@ -51,7 +51,7 @@ The inspector with the highest defect rate handled the lowest production volume,
 
 Identified patterns in defects that point to opportunities for process improvement
 
-Operational Implications
+##### Operational Implications
 
 Review and standardize inspection procedures to ensure consistency
 
@@ -65,7 +65,7 @@ Objective: Explore hospital operational data to understand patient distribution,
 
 Tools Used: Excel | SQL | Power BI
 
-Key Insights
+##### Key Insights
 
 Several medications are prescribed across multiple medical conditions, rather than being condition-specific
 
@@ -75,7 +75,7 @@ Billing is relatively evenly distributed across six medical conditions, which is
 
 Adults have the highest number of medical conditions, suggesting higher healthcare demand in this age group
 
-Business Implications
+##### Business Implications
 
 Hospitals may need to prioritize resource allocation and care for adult patients
 
