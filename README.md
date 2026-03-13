@@ -126,7 +126,7 @@ Optimize medication inventory management based on usage patterns
 Explore opportunities to improve cost allocation and treatment efficiency
 
 ## Dashboard Preview
-[Dashboard Screenshot]()
+[Dashboard Screenshot](https://github.com/Peace-Ada/Hospital-Operations-and-Patient-Analytics/blob/010e73071f23e30ecc9af8e9749acda7d0f4bce6/Dashboard.png)
 
 ## Current Project
 
