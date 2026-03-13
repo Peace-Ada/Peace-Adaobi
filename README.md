@@ -109,25 +109,25 @@ Objective: Explore hospital operational data to understand patient distribution,
 
 Tools Used: Excel | SQL | Power BI
 
-##### Key Insights
+### Key Insights
 
-Several medications are prescribed across multiple medical conditions, rather than being condition-specific
+-Several medications are prescribed across multiple medical conditions, rather than being condition-specific
 
-Patients are evenly distributed across hospitals, genders, and blood types
+-Patients are evenly distributed across hospitals, genders, and blood types
 
-Billing is relatively evenly distributed across six medical conditions, which is unusual given treatment complexity typically varies
+-Billing is relatively evenly distributed across six medical conditions, which is unusual given treatment complexity typically varies
 
-Adults have the highest number of medical conditions, suggesting higher healthcare demand in this age group
+-Adults have the highest number of medical conditions, suggesting higher healthcare demand in this age group
 
-##### Business Implications
+### Business Implications
 
-Hospitals may need to prioritize resource allocation and care for adult patients
+-Hospitals may need to prioritize resource allocation and care for adult patients
 
-Optimize medication inventory management based on usage patterns
+-Optimize medication inventory management based on usage patterns
 
-Explore opportunities to improve cost allocation and treatment efficiency
+-Explore opportunities to improve cost allocation and treatment efficiency
 
-## Dashboard Preview
+### Dashboard Preview
 [Dashboard Screenshot](https://github.com/Peace-Ada/Hospital-Operations-and-Patient-Analytics/blob/010e73071f23e30ecc9af8e9749acda7d0f4bce6/Dashboard.png)
 
 ## Current Project
