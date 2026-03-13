@@ -37,28 +37,142 @@ Documented and interpreted results to support data-informed operational decision
 This experience strengthened my ability to analyze data, identify trends, and translate findings into actionable insights.
 
 ## Featured Projects
-### Production Quality Control Analysis
+# Quality Control and Production Defect Analysis
 
-Objective: Identify factors contributing to defective products and evaluate inspection consistency.
+## Project Overview
+This project analyzes production quality data to identify defect patterns, evaluate inspection consistency, and monitor product quality. The goal is to uncover insights that help improve manufacturing efficiency and reduce defective products.
 
-Tools Used: Excel | SQL 
+## Key Performance Indicators (KPIs)
+
+- **Total Quantity Produced:** 39,207 units  
+- **Total Good Quantity:** 37,915 units  
+- **Total Defective Quantity:** 1,292 units  
+- **Total Batches Produced:** 50  
+- **Overall Defect Rate:** 3.29%  
+
+
+## Key Insights
+
+### Inspector Performance
+Defect rates vary significantly among inspectors:
+
+- **Mary:** 85% defect rate – 11,451 units produced  
+- **John:** 55% defect rate – 14,304 units produced  
+- **Alice:** 40% defect rate – 13,452 units produced  
+
+**Insight:** Mary recorded the highest defect rate despite producing the lowest quantity, while Alice demonstrated the most consistent quality performance.
+
+---
+
+### Defective Percentage by Product
+Defect rates by product:
+
+- **Soap C:** 69% defect rate (highest)  
+- **Soap A:** 67% defect rate  
+- **Soap B:** 54% defect rate (lowest)  
+
+**Insight:** Soap C and Soap A have the highest defect rates, indicating potential production process issues, while Soap B performs comparatively better.
+
+---
+
+### Defect Trend Over Time
+In **January**, defects temporarily decreased during **Week 2**, but increased again in subsequent weeks.  
+
+**Insight:** This shows inconsistent quality control performance, highlighting opportunities for operational improvement.
+
+---
+
+## Recommendations
+
+1. **Improve Inspector Training**  
+   Standardize inspection procedures and provide quality assurance training to ensure consistent inspection results.
+
+2. **Investigate Production Process for Soap C and Soap A**  
+   Review raw materials, formulation, and equipment calibration to reduce high defect rates.
+
+3. **Replicate Best Practices from Week 2**  
+   Identify what contributed to the temporary drop in defects and apply these practices consistently.
+
+4. **Implement Continuous Quality Monitoring**  
+   Use dashboards to track defect trends in real time and enable proactive corrective actions.
+
+---
+
+## Dashboard Preview
+![Dashboard Screenshot](dashboard.png)
+
+### Hospital Operations Analysis
+
+Objective: Explore hospital operational data to understand patient distribution, medication usage, and billing trends.
+
+Tools Used: Excel | SQL | Power BI
 
 ##### Key Insights
 
-Significant variation in defect rates among the three inspectors: 85%, 65%, and 40%
+Several medications are prescribed across multiple medical conditions, rather than being condition-specific
 
-The inspector with the highest defect rate handled the lowest production volume, indicating a potential inconsistency in inspection outcomes
+Patients are evenly distributed across hospitals, genders, and blood types
 
-Identified patterns in defects that point to opportunities for process improvement
+Billing is relatively evenly distributed across six medical conditions, which is unusual given treatment complexity typically varies
 
-##### Operational Implications
+Adults have the highest number of medical conditions, suggesting higher healthcare demand in this age group
 
-Review and standardize inspection procedures to ensure consistency
+##### Business Implications
 
-Provide quality assurance training if differences in inspection standards are observed
+Hospitals may need to prioritize resource allocation and care for adult patients
 
-Examine whether inspectors are handling different product types or batches that may affect defect rates
+Optimize medication inventory management based on usage patterns
 
+Explore opportunities to improve cost allocation and treatment efficiency
+
+## Current Project
+
+I am currently building my third data analytics project, continuing to strengthen my skills in data exploration, visualization, and insight generation using real-world datasets.
+
+## Skills & Tools
+Data Analysis Skills
+
+Data Cleaning & Preparation
+
+Exploratory Data Analysis (EDA)
+
+Data Visualization
+
+Dashboard Development
+
+Data Interpretation
+
+## Tools & Technologies
+
+Microsoft Excel
+
+Power BI
+
+SQL
+
+Python (Pandas, Plotly)
+
+## Career Interests
+
+I am passionate about applying data analytics to improve operations, support decision-making, and uncover actionable insights in areas such as:
+
+Healthcare Analytics
+
+Business & Operations Analytics
+
+Manufacturing & Production Analytics
+
+Research & Scientific Data Analysis
+
+## Let's Connect
+
+I am open to entry-level data analyst opportunities, collaborations, and learning experiences.
+
+LinkedIn: (https://www.linkedin.com/in/peace-ada-95b341341?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
+Email: (peaceada100@gmail.com)
+
+⭐ Explore my repositories to see the projects I am building and continuously improving.
 ### Hospital Operations Analysis
 
 Objective: Explore hospital operational data to understand patient distribution, medication usage, and billing trends.
