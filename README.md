@@ -125,77 +125,8 @@ Optimize medication inventory management based on usage patterns
 
 Explore opportunities to improve cost allocation and treatment efficiency
 
-## Current Project
-
-I am currently building my third data analytics project, continuing to strengthen my skills in data exploration, visualization, and insight generation using real-world datasets.
-
-## Skills & Tools
-Data Analysis Skills
-
-Data Cleaning & Preparation
-
-Exploratory Data Analysis (EDA)
-
-Data Visualization
-
-Dashboard Development
-
-Data Interpretation
-
-## Tools & Technologies
-
-Microsoft Excel
-
-Power BI
-
-SQL
-
-Python (Pandas, Plotly)
-
-## Career Interests
-
-I am passionate about applying data analytics to improve operations, support decision-making, and uncover actionable insights in areas such as:
-
-Healthcare Analytics
-
-Business & Operations Analytics
-
-Manufacturing & Production Analytics
-
-Research & Scientific Data Analysis
-
-## Let's Connect
-
-I am open to entry-level data analyst opportunities, collaborations, and learning experiences.
-
-LinkedIn: (https://www.linkedin.com/in/peace-ada-95b341341?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-
-Email: (peaceada100@gmail.com)
-
-⭐ Explore my repositories to see the projects I am building and continuously improving.
-### Hospital Operations Analysis
-
-Objective: Explore hospital operational data to understand patient distribution, medication usage, and billing trends.
-
-Tools Used: Excel | SQL | Power BI
-
-##### Key Insights
-
-Several medications are prescribed across multiple medical conditions, rather than being condition-specific
-
-Patients are evenly distributed across hospitals, genders, and blood types
-
-Billing is relatively evenly distributed across six medical conditions, which is unusual given treatment complexity typically varies
-
-Adults have the highest number of medical conditions, suggesting higher healthcare demand in this age group
-
-##### Business Implications
-
-Hospitals may need to prioritize resource allocation and care for adult patients
-
-Optimize medication inventory management based on usage patterns
-
-Explore opportunities to improve cost allocation and treatment efficiency
+## Dashboard Preview
+[Dashboard Screenshot]()
 
 ## Current Project
 
