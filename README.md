@@ -101,7 +101,9 @@ In **January**, defects temporarily decreased during **Week 2**, but increased a
 ## Dashboard Preview
 [Dashboard Screenshot](https://github.com/Peace-Ada/Quality-Control-and-Production-Defect-Analysis/blob/596234d708f622ad2ccafb14d71930a31f22d443/QCDASHBOARD.png)
 
-### Hospital Operations Analysis
+---
+
+# Hospital Operations Analysis
 
 Objective: Explore hospital operational data to understand patient distribution, medication usage, and billing trends.
 
