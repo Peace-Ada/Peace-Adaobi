@@ -1,5 +1,5 @@
 # Peace-Adaobi
-Early-Career Data Analyst|Skilled in Excel, Power BI, SQL, Python|Transforming Data into Actionable Insight,
+Early-Career Data Analyst| Skilled in Excel, Power BI, SQL, Python| Transforming Data into Actionable Insight,
 
  ## Entry-Level Data Analyst | Turning Data into Actionable Insights
 
