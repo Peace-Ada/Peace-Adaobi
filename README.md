@@ -118,11 +118,11 @@ Tools Used: Excel | SQL | Power BI
 
 ### Business Implications
 
--Hospitals may need to prioritize resource allocation and care for adult patients
-
--Optimize medication inventory management based on usage patterns
-
--Explore opportunities to improve cost allocation and treatment efficiency
+*   **Targeted Resource Allocation:** Hospitals may need to prioritize resource allocation and clinical care specifically for adult patients, as they represent the highest volume of medical conditions.
+*   **Clinical Validation & Patient Safety:** Given that the same medications are being prescribed across various conditions, there is a critical need for **rigorous clinical testing and audits**. This ensures that drugs are precisely targeted to the correct medical conditions, improving patient outcomes and reducing the risks associated with broad-spectrum prescribing.
+*   **Inventory Optimization:** There is a clear opportunity to optimize medication inventory management by aligning stock levels with verified usage patterns and specific clinical requirements.
+*   **Operational Strategy:** The hospital should explore opportunities to improve cost allocation and treatment efficiency, ensuring that billing and resources better reflect the complexity and specific medication needs of different medical cases.
+*   
 
 ### Dashboard Preview
 [Dashboard Screenshot](https://github.com/Peace-Ada/Hospital-Operations-and-Patient-Analytics/blob/010e73071f23e30ecc9af8e9749acda7d0f4bce6/Dashboard.png)
