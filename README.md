@@ -111,13 +111,10 @@ Tools Used: Excel | SQL | Power BI
 
 ### Key Insights
 
--Several medications are prescribed across multiple medical conditions, rather than being condition-specific
-
--Patients are evenly distributed across hospitals, genders, and blood types
-
--Billing is relatively evenly distributed across six medical conditions, which is unusual given treatment complexity typically varies
-
--Adults have the highest number of medical conditions, suggesting higher healthcare demand in this age group
+1.  **Medication Overlap:** Analysis shows that several medications are prescribed across multiple medical conditions rather than being uniquely associated, suggesting standardized treatment protocols.
+2.  **Demographic Parity:** Patients are spread relatively evenly across hospitals, genders, and blood types, indicating a broad and diverse service reach.
+3.  **Billing Uniformity:** Surprisingly, billing is spread relatively evenly across all six medical conditions. This is unexpected as treatment complexity usually dictates cost variation; this suggests a potential flat-rate billing structure or standardized insurance reimbursements.
+4.  **Age-Related Trends:** Adults (middle-aged) represent the demographic with the highest number of reported medical conditions.
 
 ### Business Implications
 
